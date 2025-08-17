@@ -1,6 +1,8 @@
 # Number Comparison Quiz
 
-This is a simple web application built with HTML, CSS, and JavaScript, allowing users to practice comparing different types of numbers (integers, decimals, fractions) through a dark-themed interface. Users select one of three buttons (>, =, <) to compare two displayed numbers. The application tracks the number of correct answers, total questions, accuracy percentage, and average response time per question.
+This is a simple web application built with HTML, CSS, and JavaScript, allowing users to practice comparing different types of numbers (integers, decimals, fractions) through a dark-themed interface. Users select one of three buttons (>, =, <) to compare two displayed numbers. The application tracks the number of correct answers, total questions, accuracy percentage, and average response time per question.</br>
+
+Demo: https://xn--msiu-goa8b.vn/github/number-comparison-quiz/
 
 ## Features
 - **Number Type Selection**: Users can choose one or more number types (integers, decimals, fractions) to compare.
@@ -14,12 +16,12 @@ This is a simple web application built with HTML, CSS, and JavaScript, allowing 
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/lemasieu/number-comparison-quiz.git
    ```
 2. **Open the Project**:
    - Navigate to the project folder:
      ```bash
-     cd <your-repo-name>
+     cd number-comparison-quiz
      ```
    - Open `index.html` in a web browser (no server required as this is a static application).
    - Alternatively, use a static server like Live Server in Visual Studio Code for preview.
@@ -49,7 +51,7 @@ This is a simple web application built with HTML, CSS, and JavaScript, allowing 
 - No additional software or external libraries required.
 
 ## Author
-- Created by [Your Name or Alias] with assistance from Grok (xAI).
+- Created by me with assistance from Grok (xAI).
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details (if included).
